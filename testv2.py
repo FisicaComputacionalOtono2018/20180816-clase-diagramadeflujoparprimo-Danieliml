@@ -21,7 +21,7 @@ while s!=0:
   p=0
   j=0
 
-  while p<5:
+  while p<s:
     if j==0:
       p=p2
     if j!=0:
